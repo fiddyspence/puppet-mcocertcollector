@@ -1,0 +1,8 @@
+name 'fiddyspence-mcocertcollector'
+version '0.0.1'
+source 'git://github.com/fiddyspence/puppet-mcocertcollector.git'
+description 'This is a module to collect public keys'
+author 'fiddyspence'
+license 'ASL 2.0'
+summary 'Mcocertcollector Module'
+project_page 'http://github.com/fiddyspence/puppet-mcocertcollector'
