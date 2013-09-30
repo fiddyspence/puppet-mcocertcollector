@@ -6,3 +6,5 @@ author 'fiddyspence'
 license 'ASL 2.0'
 summary 'Mcocertcollector Module'
 project_page 'http://github.com/fiddyspence/puppet-mcocertcollector'
+
+ependency 'dalen/puppetdbquery', '>= 1.3.3'
